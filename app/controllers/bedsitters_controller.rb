@@ -1,0 +1,2 @@
+class BedsittersController < ApplicationController
+end
